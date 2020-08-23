@@ -1,0 +1,202 @@
+<html>
+
+<head>
+    <meta name="Author" content="Amay Sharma" />
+    <title>Assignment 3</title>
+</head>
+
+<body>
+    <h1>This is Assignment 3!!!!!!</h1>
+    <h1>My Favourie Marvel Movies:</h1>
+    <ol>
+        <li>
+            <h3>Phase One</h3>
+        </li>
+        <ul>
+            <li>Iron Man
+                <ol type="a">
+                    <li>Release Date
+                        <ul>
+                            <li>May 2, 2008</li>
+                        </ul>
+                    </li>
+                    <li>Director
+                        <ol type="i">
+                            <li>Jon Favreau</li>
+                            <ul>
+                                <li>Actor</li>
+                                <ul type="circle">
+                                    <li>1992-present</li>
+                                    <ol>
+                                        <li>
+                                            <dt>About Him</dt>
+                                            <dd>
+                                                He worked in films like Rudy and Swingers
+                                            </dd>
+                                        </li>
+                                    </ol>
+                                </ul>
+                                <li>Director</li>
+                            </ul>
+                        </ol>
+                    </li>
+                    <li>Producer</li>
+                    <ul>
+                        <li>Kevin Fiege</li>
+                    </ul>
+                </ol>
+            </li>
+            </li>
+            <li>
+                Captain America-I
+                <ol type="a">
+                    <li>Release Date</li>
+                    <ul>
+                        <li>July 22, 2011</li>
+                    </ul>
+                </ol>
+            </li>
+            <ol type="a">
+                <li>Director
+                    <ol type="i ">
+                        <li>Joe Johnston</li>
+                    </ol>
+                </li>
+                <li>Producer</li>
+                <ul>
+                    <li>Kevin Fiege</li>
+                </ul>
+
+            </ol>
+
+        </ul>
+        </li>
+        <li>
+            <h3>Phase Two</h3>
+        </li>
+        <ul>
+            </li>
+            <li>
+                Captain America-II
+                <ol type="a">
+                    <li>Release Date</li>
+                    <ul>
+                        <li>April 4, 2014</li>
+                    </ul>
+            </li>
+            <li>Director
+                <ol type="i ">
+                    <li>Anthony and Joe Russo</li>
+                </ol>
+            </li>
+            <li>Producer</li>
+            <ul>
+                <li>Kevin Fiege</li>
+            </ul>
+            </li>
+            </ol>
+            <li>
+                Guardians Of the Galaxy
+                <ol type="a">
+                    <li>Release Date</li>
+                    <ul>
+                        <li>August 1,2014</li>
+                    </ul>
+                </ol>
+            </li>
+            <ol type="a">
+                <li>Director
+                    <ol type="i ">
+                        <li>James Gunn</li>
+                    </ol>
+                </li>
+                <li>Producer</li>
+                <ul>
+                    <li>Kevin Fiege</li>
+                </ul>
+
+            </ol>
+
+        </ul>
+        </li>
+        </ul>
+        </li>
+        <li>
+            <h3>Phase Three</h3>
+        </li>
+        <ul>
+            </li>
+            <li>
+                Captain America-Civil War
+                <ol type="a">
+                    <li>Release Date</li>
+                    <ul>
+                        <li>May 6, 2016</li>
+                    </ul>
+            </li>
+            <li>Director
+                <ol type="i ">
+                    <li>Anthony and Joe Russo</li>
+                </ol>
+            </li>
+            <li>Producer</li>
+            <ul>
+                <li>Kevin Fiege</li>
+            </ul>
+            </li>
+            </ol>
+            <li>
+                Avengers Endgame
+                <ol type="a">
+                    <li>Release Date</li>
+                    <ul>
+                        <li>April 16,2019</li>
+                    </ul>
+                </ol>
+            </li>
+            <ol type="a">
+                <li>Director
+                    <ol type="i ">
+                        <li>Anthony and Joe Russso</li>
+                    </ol>
+                </li>
+                <li>Producer</li>
+                <ul>
+                    <li>Kevin Fiege</li>
+                </ul>
+
+            </ol>
+
+        </ul>
+        </li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        <li>
+            <h3>Phase Four</h3>
+        </li>
+        <h4>Upcoming Movies</h4>
+        <ol type="I" reversed>
+            <li>
+                Black Widow
+            </li>
+            <li>
+                The Eternals
+            </li>
+            <li>
+                Shang-Chi and the legend of 10 rings
+            </li>
+            <li>
+                Spiderman Sequel
+            </li>
+            <li>
+                Thor-Love and Thunder
+            </li>
+            <li>
+                Doctor Strange- In a multiverse of madness
+            </li>
+        </ol>
+</body>
+
+</html>
