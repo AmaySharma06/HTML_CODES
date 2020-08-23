@@ -1,0 +1,102 @@
+<html>
+
+<head>
+    <meta name="Author" content="Amay Sharma" />
+    <title>
+        Assignment 4
+    </title>
+</head>
+
+<body>
+    <h1>Assignment 4!!!</h1>
+    <p>
+        <a href="HTML 3.html#1">Link to Html 3 Iron Man</a>
+        <a href="HTML2.html#1">Link to Html 2 Nav Bar</a>
+        <a href="HTML1.html#1">Link to Html 1 My Hobbies</a>
+    </p>
+    <p>
+        <h3>
+            Section 1
+        </h3>
+        For Websites
+        <ul>
+            <li id=#1>
+                <a href="https://www.youtube.com " target="_blank">Youtube</a>
+            </li>
+            <li id=#2>
+                <a href="https://codingblocks.com/" target="_blank">Coding Blocks</a>
+            </li>
+            <li id=#3>
+                <a href="https://github.com/ ">Github</a>
+            </li>
+            <li id=#4>
+                <a href="https://www.google.com ">Google</a>
+            </li>
+        </ul>
+    </p>
+    <p>
+        <h3>
+            Section 2
+        </h3>
+        For Fake Phone numbers
+        <ul>
+            <li>
+                <a href="tel:9999999999 ">Medical Helpline</a>
+            </li>
+            <li>
+                <a href="tel:9999999999 ">Coding Blocks Helpline</a>
+            </li>
+            <li>
+                <a href="tel:9999999999  ">JIO Customer Care</a>
+            </li>
+            <li>
+                <a href="tel:9999999999 ">Covid Helpline</a>
+            </li>
+        </ul>
+    </p>
+    <p>
+        <h3>
+            Section 3
+        </h3>
+        For fake e-mail ids
+        <ul>
+            <li>
+                <a href="mail: fake@id.com ">Fake Id</a>
+            </li>
+            <li>
+                <a href="mail: fake@id.com">Coding Blocks</a>
+            </li>
+            <li>
+                <a href="mail: fake@id.com">VMC</a>
+            </li>
+            <li>
+                <a href="mail: fake@id.com">SOF</a>
+            </li>
+        </ul>
+    </p>
+    <p>
+        <h3>
+            Section 4
+        </h3>
+        For elements of this page only
+        <ul>
+            <li>
+                <a href="#1 ">Youtube</a>
+            </li>
+            <li>
+                <a href="#2">Coding Blocks</a>
+            </li>
+            <li>
+                <a href="#3">Github</a>
+            </li>
+            <li>
+                <a href="#4 ">Google</a>
+            </li>
+        </ul>
+    </p>
+
+</body>
+
+</html>
+
+</html>
