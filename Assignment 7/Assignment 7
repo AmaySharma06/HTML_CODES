@@ -1,0 +1,37 @@
+<html>
+
+<head>
+    <meta name="Author" content="Amay Sharma">
+    <title>
+        Assignment 7
+    </title>
+</head>
+
+<body bgcolor="Green">
+    <p>
+        <h1>Assignment 7!!!</h1>
+        <iframe src="https://jr.codingblocks.com/" height="400" width="2050">
+        </iframe>
+    </p>
+    <p>
+        <h1>
+            <i><u>Some Portion of another page</u></i>
+        </h1>
+    </p>
+    <p>
+        <iframe src="index.html#1" height="200" width="600" frameborder="0">
+        </iframe>
+        <iframe src="index.html#2" height="200" width="600" frameborder="0">
+        </iframe>
+        <iframe src="index.html#3" height="200" width="600" frameborder="0">
+        </iframe>
+    </p>
+    <p>
+        <h1>
+            <u><i>Embedding some youtube videos</i></u></h1>
+    </p>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/KEXKCGyMowM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <embed width="560" height="315" src="https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4" frameborder="0"></p>
+</body>
+
+</html>
