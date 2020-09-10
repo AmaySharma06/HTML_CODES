@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <meta name="Author" content="Amay Sharma">
+    <title>
+        Assignment 8
+    </title>
+</head>
+
+<body bgcolor="grey">
+    <h2>
+        Assignment 8!!!
+    </h2>
+    <h1>My Bio Data</h1>
+    <form bgcolor="yellow">
+        <fieldset>
+            <legend>
+                <b>Personal Information</b>
+            </legend>
+            <label for="1n">First Name:</label>
+            <input id="1n" name="1n" type="text" placeholder="First Name" required>
+            <label for="2n">Last Name:</label>
+            <input id="2n" name="2n" placeholder="Last Name" required>
+            <br><br>
+            <label for="gender">Gender   :</label> Male :
+            <input name="gender" id="gender" type="radio"> Female :
+            <input name="gender" id="gender" type="radio"> Others :
+            <input name="gender" id="gender" type="radio">
+            <br><br>
+            <label for="dob">Date of Birth:</label>
+            <input id="dob" name="dob" type="date" required>
+            <br><br>
+            <label for="emailid">E-mail:</label>
+            <input id="emailid" name="emailid" type="email" placeholder="abc@xyz.com" required>
+            <br><br>
+            <label for="phone">Phone Number</label>
+            <input id="phone" name="phone" type="tel" placeholder="+91" required>
+            <br><br>
+            <label for="height">Height :</label>
+            <input id="height" name="height" placeholder="in cm" type="number" required>
+        </fieldset>
+        <fieldset>
+            <legend><b>Educational Details</b></legend>
+            <label for="school">School Name: </label>
+            <input id="school" name="school" type="text" placeholder="Your school's name" required>
+            <br><br>
+            <label for="class">Class: </label>
+            <input id="class" name="class" type="number" placeholder=" Your Grade in numbers " required>
+            <br><br>
+            <label for="stream">Choose Your Stream</label>
+            <select>
+                <option value="stream">Medical</option>
+                <option value="stream">Non-Medical</option>
+                <option value="stream">Arts</option>
+            </select>
+            <br><br> <label for="marksheet ">Marksheet: </label>
+            <input id="marksheet " name="marksheet " type="file" placeholder="Your school 's name" required>
+            <br><br>
+        </fieldset>
+        <br>
+        <input type="submit" value="Submit Form">
+        <input type="reset" value="Reset Form">
+    </form>
+</body>
+
+</html>
