@@ -1,0 +1,87 @@
+<html>
+
+<head>
+    <meta name="Author" content="Amay Sharma">
+    <title>Assignment 9</title>
+</head>
+
+<body bgcolor="cyan">
+    <h1>Reservation Request</h1>
+    <form>
+        <fieldset>
+            <legend><b>General Information</b></legend>
+            <label for="arr">Arrival Date:</label>
+            <input name="arr" id="arr" type="date" required>
+            <br> <br>
+            <label for="nights">Nights:</label>
+            <input name="nights" id="nights" type="number" required>
+            <br> <br>
+            <label for="adults">Adults:</label>
+            <select id="adults" name="adults">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+            </select>
+            <br> <br>
+            <label for="Children">Children:</label>
+            <select id="Children" name="Children">
+                <option>0</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+            </select> <br> <br>
+        </fieldset>
+        <fieldset>
+            <legend>
+                <b>Preferences</b>
+            </legend>
+            <label for="room">Room Type:</label> Standard:
+            <input name="room" id="room" type="radio"> Business:
+            <input name="room" id="room" type="radio"> Suite:
+            <input name="room" id="room" type="radio">
+            <br><br> <label for="bed">Bed Type:  </label> King-size:
+            <input name="bed" id="bed" type="radio"> Double-Double:
+            <input name="bed" id="bed" type="radio">
+            <br><br>
+            <input type="checkbox" name="s" id="s">
+            <label for="s">Smoking</label>
+            <br><br> <label for="food">Food Options:</label>
+            <input name="food" id="food" type="text" list="list1" required>
+            <datalist id=adults <option>Veg</option>
+                <option>Non-Veg</option>
+                <option>Both</option>
+            </datalist>
+        </fieldset>
+        <fieldset>
+            <legend><b>Contact Information</b></legend>
+            <label for="name">Name</label>
+            <input name="name" id="name" type="text" pattern="[a-z]{1-10}" required> <br><br>
+            <label for="Email">Email</label>
+            <input name="Email" id="Email" type="email" required><br><br>
+            <label for="Phone">Phone</label>
+            <input name="Phone" id="Phone" type="tel" pattern="[0-9]{10}" required><br><br>
+            <label for="pass">Password</label>
+            <input id="pass" name="pass" type="password" pattern="[Aa]may" required>
+        </fieldset>
+        <fieldset>
+            <legend>
+                <b>Distance Information</b>
+            </legend>
+            <label for="met">Fuel Meter</label>
+            <meter low="30" high="70" optimum="80" max="100" value="85" id="met" name="met">
+                Fuel Meter
+            </meter><br><br>
+            <label for="prog">Progress Bar</label>
+            <progress max="100" value="85" id="prog" name="prog">
+                Progress bar
+            </progress><br><br>
+            <label for="tex">About the visit:</label><br>
+            <textarea id="tex" name="tex" rows="5" maxlength="50" placeholder="Enter here"></textarea>
+        </fieldset>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+</body>
+
+</html>
