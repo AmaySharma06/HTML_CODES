@@ -1,0 +1,19 @@
+.rd {
+    color: red;
+}
+
+.p1 {
+    color: cyan;
+}
+
+#grn {
+    color: green;
+}
+
+.p2 {
+    color: purple;
+}
+
+.p3 {
+    color: yellow;
+}
