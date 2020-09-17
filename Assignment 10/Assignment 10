@@ -1,0 +1,49 @@
+<html>
+
+<head>
+    <meta name="Author" content="Amay Sharma">
+    <title>Assignment 10</title>
+    <link href="CSS1.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1 id="he1"><i><u>Good <span id="he2">Food:</span></u></i></h1>
+    <h2 style="color: purple;"><i>Vegetarian:</i></h2>
+    <img width="250 " height="250 " src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/burnt-aubergine-chilli_1-fa6dd3c.jpg?webp=true&quality=90&resize=500%2C454 ">
+    <img width="250 " height="250 " src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/charred-spring-onions-teriyaki-tofu-1635424.jpg?quality=90&webp=true&resize=300,272 ">
+    <br><br>
+    <p class="p1"><span class="rd"><b><u>Emerald Dal:</b></span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id cum quibusdam impedit dolorum consectetur repudiandae quasi nesciunt culpa, optio mollitia assumenda? Tenetur, vero corrupti ex illo iste excepturi
+        impedit officia! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis fuga, animi magni, expedita doloribus, debitis hic minima molestiae fugiat ratione impedit maxime adipisci aliquam nobis incidunt consequuntur eligendi culpa?
+        Odit?
+        </u>
+    </p>
+    <h2 style="color: purple;"><i>Cakes &amp; Baking:</i></h2>
+    <img width="250 " height="250 " src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/triple-chocolate-peanut-butter-layer-cake-2-06eee24.jpg?webp=true&quality=90&resize=500%2C454">
+    <img width="250 " height="250 " src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/fun-cake-c3ccf0e.jpg?webp=true&quality=90&resize=440%2C400">
+    <p class="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde maxime dignissimos temporibus eos ullam nulla nobis repellat dolores, ad voluptas quo nesciunt soluta, dicta deserunt a inventore aliquam rem maiores. Lorem ipsum dolor sit, amet consectetur
+        adipisicing elit.<span class="rd">Corrupti blanditiis sapiente doloribus recusandae sed beatae, accusantium, commodi a aliquam facilis exercitationem voluptatibus cum veniam? Debitis fugiat a deleniti accusamus voluptatem. Lorem ipsum dolor sit amet
+        consectetur, adipisicing elit.</span><span id="grn">Cupiditate fuga provident velit sapiente impedit distinctio odit voluptates minus corrupti necessitatibus hic dignissimos, possimus animi inventore asperiores enim modi tenetur consequatur.</span>
+    </p>
+    <p class="p3">Lorem ipsum dolor sit amet <span class="p2">adipisicing elit. Unde maxime dignissimos</span> temporibus eos ullam nulla nobis repellat dolores, ad voluptas quo nesciunt soluta, dicta deserunt a inventore aliquam rem maiores. Lorem ipsum dolor sit,
+        amet consectetur adipisicing elit. Corrupti blanditiis sapiente doloribus recusandae sed beatae, accusantium, commodi a aliquam facilis exercitationem voluptatibus cum veniam? Debitis fugiat a deleniti accusamus voluptatem. Lorem ipsum dolor sit
+        amet consectetur, adipisicing elit. Cupiditate fuga provident velit sapiente impedit distinctio odit voluptates minus corrupti necessitatibus hic dignissimos, possimus animi inventore asperiores enim modi tenetur consequatur.
+    </p>
+    <p class="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde maxime dignissimos temporibus eos ullam nulla nobis repellat dolores, ad voluptas quo nesciunt soluta, dicta deserunt a inventore aliquam rem maiores. Lorem ipsum dolor sit, amet consectetur
+        adipisicing elit. Corrupti blanditiis sapiente doloribus recusandae sed beatae, accusantium, commodi a aliquam facilis exercitationem voluptatibus cum veniam? Debitis fugiat a deleniti accusamus voluptatem. Lorem ipsum dolor sit amet consectetur,
+        adipisicing elit. Cupiditate fuga provident velit sapiente impedit distinctio odit voluptates minus corrupti necessitatibus hic dignissimos, possimus animi inventore asperiores enim modi tenetur consequatur.
+    </p>
+    <p class="p3">Lorem ipsum dolor sit amet consectetur adipisicing elit.<span class="p2">Unde maxime dignissimos temporibus</span> eos ullam nulla nobis repellat dolores, ad voluptas quo nesciunt soluta, dicta deserunt a inventore aliquam rem maiores. Lorem ipsum
+        dolor sit, amet consectetur adipisicing elit. Corrupti blanditiis sapiente doloribus recusandae sed beatae, accusantium, commodi a aliquam facilis exercitationem voluptatibus cum veniam? Debitis fugiat a deleniti accusamus voluptatem. Lorem ipsum
+        dolor sit amet consectetur, adipisicing elit. Cupiditate fuga provident velit sapiente impedit distinctio odit voluptates minus corrupti necessitatibus hic dignissimos, possimus animi inventore asperiores enim modi tenetur consequatur. </p>
+</body>
+<style>
+    #he1 {
+        color: red;
+    }
+    
+    #he2 {
+        color: rgb(21, 21, 107);
+    }
+</style>
+
+</html>
