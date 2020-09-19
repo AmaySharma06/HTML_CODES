@@ -1,0 +1,60 @@
+.heading h1 {
+    background-color: #EA7773;
+    font-family: 'Grenze Gotisch', cursive;
+    text-align: center;
+    color: white;
+    font-size: xxx-large;
+    font-weight: normal;
+}
+
+.heading a {
+    text-decoration: none;
+    text-align: left;
+}
+
+.spyder h2 {
+    color: #EA425C;
+}
+
+.spyder p {
+    letter-spacing: 3px;
+    text-indent: 50px;
+}
+
+.cap h2 {
+    text-align: right;
+    color: #487EB0;
+    text-decoration: overline;
+}
+
+.cap p {
+    word-spacing: 10px;
+    line-height: 2.0;
+    text-align: right;
+}
+
+.Im h2 {
+    text-align: center;
+    background-color: #487EB0;
+    color: #EEC213;
+}
+
+.Im p {
+    text-align: justify;
+    text-decoration: line-through;
+}
+
+.weirdo p {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+#op {
+    font-weight: 900;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Grenze Gotisch', cursive;
+    text-shadow: 0 0 20px #fefcc9, 10px -10px 30px #feec85, -20px -20px 40px #ffae34, 20px -40px 50px #ec760c, -20px -60px 60px #cd4606, 0 -80px 70px #973716, 10px -90px 80px #451b0e, /* 3d effect follows */
+    1px 1px 0 yellow, 2px 2px 0 orange, 3px 3px 0 red;
+    text-decoration: underline red wavy;
+}
